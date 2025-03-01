@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.example.vanappproject",
+      "sha256_cert_fingerprints": ["8F:2C:E6:F3:8D:D6:05:6E:7F:EC:4B:82:75:85:BA:EE:82:5B:5F:D9:64:63:B6:40:77:B2:99:2D:2C:74:35:FC"]
+    }
+  }
+]
